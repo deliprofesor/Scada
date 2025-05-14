@@ -1,1 +1,3 @@
 # Scada
+
+scada verileri incelendi.
